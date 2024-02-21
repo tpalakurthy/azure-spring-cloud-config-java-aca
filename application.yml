@@ -1,0 +1,4 @@
+sample:
+  client:
+    config:
+      connectTimeout: 10000
