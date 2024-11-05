@@ -1,4 +1,5 @@
 sample:
   client:
     config:
-      connectTimeout: 10000
+      connectTimeout: 100000000
+      
